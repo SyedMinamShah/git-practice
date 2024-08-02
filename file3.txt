@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my favorite food is cheese burger.
+=======
+my favorite food is cheese and tomato.
+>>>>>>> newbranch
